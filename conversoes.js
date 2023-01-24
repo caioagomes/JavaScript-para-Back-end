@@ -17,3 +17,4 @@
     //String() função que converte numero em String
 
     console.log(Number(numeroString)+numero);
+//
