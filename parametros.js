@@ -22,3 +22,5 @@ function nomeIdade(nome, idade){
 }
 
 console.log(nomeIdade(nome, idade))
+
+
