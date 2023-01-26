@@ -13,3 +13,12 @@ function soma(numero1,numero2){
 }
 
 console.log (soma(numero1,numero2));
+
+//ordem dos parametros
+let nome='caio';
+let idade=26;
+function nomeIdade(nome, idade){
+    return `meu nome é ${nome} e minha idade é ${idade}`;
+}
+
+console.log(nomeIdade(nome, idade))
